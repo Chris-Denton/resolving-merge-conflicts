@@ -1,23 +1,23 @@
-# GitHub Teacher
+# Chris Denton
 
-Charting the knowledge of the Internet, just like Galileo charted the stars.
+Getting an associates Programming degree from TCC.
 
 ## Job History
 
-### GitHub Trainer
+### 3D moddeler
 
-Teach all things Git, give away all the stickers, ensure world peace.
-
-### Supportocat
-
-Provide world class support to customers on the GitHub platform
+used 3d software to create models that were then 3d printed.
 
 ## Skills
 
+### Several coding languages
+
+I have taken a JAva course, 2 C++ courses, and a Python course.
+
+### Musician
+
+knows how to play several instruments and read sheet music for them
+
 ### Education
 
-Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
-
-### Leadership
-
-Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+Bachelors degree in Film Studies from the University of Tulsa.
