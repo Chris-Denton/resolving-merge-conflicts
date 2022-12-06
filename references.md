@@ -1,5 +1,2 @@
-# References
+This is my reference sheet
 
-* octocat 1 😈# References
-
-* octocat 1 😈
